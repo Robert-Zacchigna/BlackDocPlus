@@ -2,7 +2,7 @@
 
 ![Jekyll version](https://img.shields.io/badge/Jekyll-3.x-brightgreen.svg?style=flat-square)
 
-* View Demo: [BlackDocPlus](https://demo.BlackDocPlus.github.io)
+* View Demo: [BlackDocPlus](https://robert-zacchigna.github.io/BlackDocPlus/)
 * View the Original Theme: [BlackDoc](https://robert-zacchigna.github.io/BlackDoc)
 
 To run this site locally, use the [local](https://github.com/Robert-Zacchigna/BlackDocPlus/tree/local) branch
